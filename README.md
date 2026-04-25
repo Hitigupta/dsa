@@ -3,7 +3,9 @@ This repository contains  my solutions to various  Data Structures and Algorithm
 Topics Covered:
 - Arrays
 - Strings
-- Linked List
+- Binary Search
+- Sorting
+- Recursion
 - Trees
 - Graphs
 
